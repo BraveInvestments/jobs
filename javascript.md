@@ -1,3 +1,5 @@
+![Logo](https://github.com/BraveInvestments/jobs/blob/master/logo.png)
+
 # Javascript Developer
 
 ### Sobre a Brave
@@ -33,6 +35,7 @@ Tipo de contratação: Prestação de serviços
 
 Salário: Baseado na experiência e participação
 
-Local: https://goo.gl/maps/5jEgqkuEDAk
+Local: Espaço Itanhangá, Rio de Janeiro, próximo ao Metrô Jardim Oceânico.
+https://goo.gl/maps/5jEgqkuEDAk
 
-Aplicação: Enviar curriculo com pretensão salarial para ricardo@braveinvest.com.br 
+Aplicação: Enviar curriculo com pretensão salarial para ricardo@braveinvest.com.br

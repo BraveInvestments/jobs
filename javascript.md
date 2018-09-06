@@ -27,7 +27,7 @@ Estamos em busca de um(a) profissional capaz de trabalhar tanto em grupo desenvo
 
   * React Native
   * Frameworks PHP
-  * Ruby
+  * Ruby (Rails)
   * Workflow das lojas de aplicativos (Google Play e iTunes)
 
 
@@ -38,4 +38,4 @@ Salário: Baseado na experiência e participação
 Local: Espaço Itanhangá, Rio de Janeiro, próximo ao Metrô Jardim Oceânico.
 https://goo.gl/maps/5jEgqkuEDAk
 
-Aplicação: Enviar curriculo com pretensão salarial para ricardo@braveinvest.com.br
+Aplicação: Enviar curriculo com pretensão salarial para limao@braveinvest.com.br

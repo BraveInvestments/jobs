@@ -28,4 +28,4 @@ Salário: Baseado na experiência e possível participação na empresa
 Local: Espaço Itanhangá, Rio de Janeiro, próximo ao Metrô Jardim Oceânico.
 https://goo.gl/maps/5jEgqkuEDAk
 
-Aplicação: Enviar curriculo com pretensão salarial para ricardo@braveinvest.com.br
+Aplicação: Enviar curriculo com pretensão salarial para limao@braveinvest.com.br
